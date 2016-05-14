@@ -3,8 +3,6 @@
  * 
  * www.lvl1.org - Louisville's Hackerspace, a 501c3 educational non-profit
  * 
- * The.Blenster@gmail.com  
- * 
  * Twitter: @blenster
  * Google+: https://plus.google.com/u/0/111632821507430778453
  * 
