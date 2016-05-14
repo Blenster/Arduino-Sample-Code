@@ -55,7 +55,7 @@ void setup() {
                                      // when we start the animation
     
     // If you want to watch the code execute in the Arduino IDE Serial Monitor uncomment this line:
-    Serial.begin(9600);
+    //Serial.begin(9600);
     
   } // We're finished with the FOR loop here
   
