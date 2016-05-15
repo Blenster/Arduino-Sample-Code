@@ -57,7 +57,7 @@ void setup() {
     
   } // We're finished with the FOR loop here
   
-} //We're done setting things up and are ready to move on to the main code.
+} // We're done setting things up and are ready to move on to the main code.
 
 // This is the main block of code that will run on the Arduino.  Each time it finishes it will begin 
 // again unless we tell it not to.  This code will continue to run over and over as long as the
@@ -90,7 +90,7 @@ void loop() {
                             // of simply "print" as we used above.
   }
 
-  // This FOR loop counts up the LEDs and turns them on and off to create the animation going down:
+  // This FOR loop counts down the LEDs and turns them on and off to create the animation going down:
   // It is very similar to the first loop but has some differences; can you spot them?
 
   for (int led = NumberOfLEDs - 1; led > 0; led--) {
@@ -106,4 +106,4 @@ void loop() {
 
   // From here we repeat the FOR loop that goes UP again
 
-}
+} // This is the end of the repeating loop
