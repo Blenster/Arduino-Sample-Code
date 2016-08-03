@@ -52,10 +52,10 @@ void setup() {
     digitalWrite(LEDPins[led], LOW); // This sets the pins to a default state so the LEDs will be off
                                      // when we start the animation
     
-    // If you want to watch the code execute in the Arduino IDE Serial Monitor uncomment this line:
-    //Serial.begin(9600);
-    
   } // We're finished with the FOR loop here
+  
+  // If you want to watch the code execute in the Arduino IDE Serial Monitor uncomment this line:
+  //Serial.begin(9600);
   
 } // We're done setting things up and are ready to move on to the main code.
 
